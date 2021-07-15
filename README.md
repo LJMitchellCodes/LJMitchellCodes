@@ -1,6 +1,9 @@
 ### Hello Everyone, Welcome to my GitHub! 👋
 A lot more to come so follow to see all that is planned.
 
+If you are interested in Pool/Billiards checkout my YouTube Channel.  https://www.youtube.com/c/BackwardsBilliards
+
+
 
 <!--
 **LJMitchellCodes/LJMitchellCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
