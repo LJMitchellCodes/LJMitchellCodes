@@ -1,7 +1,7 @@
 ### Hello Everyone, Welcome to my GitHub! 👋
 A lot more to come so follow to see all that is planned.
 
-🌱 I’m currently learning React.
+🌱 I’m currently learning Git and Coding in a group while we are doing our Group Project for school.
 
 If you are interested in Pool/Billiards checkout my YouTube Channel.  https://www.youtube.com/c/BackwardsBilliards
 
