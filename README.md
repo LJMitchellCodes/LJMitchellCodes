@@ -14,13 +14,16 @@ const profile = {
   askMeAbout: ['web development', 'good practices'],
   
   technologies: {
+  
     frontEnd: {
       js: ['React', 'Angular'],
       css: ['bootstrap', 'Material UI']
     },
+    
       backEnd: {
       js: ['node', 'express']
     },
+    
     databases: ['mongo', 'MySQL'],
 }
 <!--
