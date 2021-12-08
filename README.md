@@ -8,8 +8,11 @@ If you are interested in Pool/Billiards checkout my YouTube Channel.  https://ww
 const profile = {
 
   pronouns: 'he/him',  
+  
   code: ['javascript', 'html', 'css'],
+  
   askMeAbout: ['web development', 'good practices'],
+  
   technologies: {
     frontEnd: {
       js: ['React', 'Angular'],
@@ -18,6 +21,7 @@ const profile = {
       backEnd: {
       js: ['node', 'express']
     },
+    
     databases: ['mongo', 'MySQL'],
 }
 <!--
