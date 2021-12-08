@@ -6,11 +6,16 @@ A lot more to come so follow to see all that is planned.
 If you are interested in Pool/Billiards checkout my YouTube Channel.  https://www.youtube.com/c/BackwardsBilliards
 
 const profile = {
-  pronouns: 'he/him',
+  pronouns: 'he/him',  
+  
   code: ['javascript', 'html', 'css'],
+  
   askMeAbout: ['web development', 'good practices'],
+  
   technologies: {
+  
     frontEnd: {
+    
       js: ['React', 'Angular'],
       css: ['bootstrap', 'Material UI']
     },
