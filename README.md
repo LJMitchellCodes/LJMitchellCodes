@@ -23,6 +23,7 @@ const profile = {
     },
     
     databases: ['mongo', 'MySQL'],
+    
 }
 <!--
 **LJMitchellCodes/LJMitchellCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
