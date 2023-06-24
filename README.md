@@ -5,9 +5,7 @@ A lot more to come so follow to see all that is planned.
 
 If you are interested in Pool/Billiards checkout my YouTube Channel.  https://www.youtube.com/c/BackwardsBilliards
 
-const profile = {
-
-  pronouns: 'he/him',  
+const profile = { 
   
   code: ['javascript', 'html', 'css'],
   
