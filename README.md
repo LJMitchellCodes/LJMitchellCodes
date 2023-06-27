@@ -1,5 +1,5 @@
 ### Hello Everyone, Welcome to my GitHub! 👋
-A lot more to come so follow to see all that is planned.
+
 
 🌱 I have graduated school and I am working to strengthen what I have learned and learn more.
 
